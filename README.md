@@ -15,7 +15,7 @@ A responsive profile card using HTML and CSS with elegant hover animation. This 
 - **HTML5** for content structure.
 - **CSS3** for styling and animations.
 - **[Remixicon](https://remixicon.com/)** for social icons.
-## Crédits
+## Credits
 
 - **Image** : Created by [Freepik](https://www.freepik.com).
 - **Icons** : [Remixicon](https://remixicon.com/).
