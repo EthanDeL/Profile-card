@@ -2,7 +2,7 @@
 
 A responsive profile card using HTML and CSS with elegant hover animation. This project is an excellent example of modern design and responsive layout. Ideal for developers wishing to add a professional touch to their portfolios or personal projects.
 
-![Profile Card](assets/img/preview.png)
+<img width="739" alt="preview" src="https://github.com/user-attachments/assets/020d410b-2ff1-4bca-8b64-079bed670b33">
 
 ## Features
 
